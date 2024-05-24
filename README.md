@@ -32,7 +32,7 @@
 
 ![2024-05-24 16_12_05-Eval_Devops - VMware Workstation](https://github.com/sg-saran/evaluation/assets/170409901/55f4b544-8958-460d-ae0d-fa1e2b7eb243)
 
-![2024-05-24 16_15_33-Eval_Devops - VMware Workstation](https://github.com/sg-saran/evaluation/assets/170409901/2cc8273e-871a-47cb-8280-62617958a37e)
+![2024-05-24 16_15_33-Eval_Devops - VMware Workstation 2](https://github.com/sg-saran/evaluation/assets/170409901/9ea1fe0e-f821-4124-a25f-e01efd2e8634)
 
 ![2024-05-24 16_17_40-Eval_Devops - VMware Workstation](https://github.com/sg-saran/evaluation/assets/170409901/51acaab6-34bf-4326-8f43-2ccb7313a41c)
 
