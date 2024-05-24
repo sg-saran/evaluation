@@ -1,7 +1,7 @@
 # evaluation
 
 ## Set Up and Test Groq API Account Locally
-![2024-05-24 15_51_12-GroqCloud](https://github.com/sg-saran/evaluation/assets/170409901/286b0a4d-a051-4f67-a596-846bd8c2a623)
+![2024-05-24 15_51_12-GroqCloud](https://github.com/sg-saran/evaluation/assets/170409901/1e400136-13cb-4d25-a802-236efe04ec88)
 
 ### Set Up and Dockerize the FastAPI Application
 ![2024-05-24 15_52_38-Eval_Devops - VMware Workstation](https://github.com/sg-saran/evaluation/assets/170409901/a2e15283-4fe7-4a36-a247-dfb87d7710aa)
