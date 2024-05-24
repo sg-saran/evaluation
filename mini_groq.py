@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 GROQ_API_URL = "https://api.groq.com/v1/endpoint"  # Remplacez par l'URL correcte de l'API Groq
-GROQ_API_TOKEN = os.getenv("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")
+GROQ_API_TOKEN = os.getenv("GROQ_API_TOKEN")
 
 async def call_groq_api(prompt: str):
     headers = {
